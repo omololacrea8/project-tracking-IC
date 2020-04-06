@@ -264,7 +264,7 @@
   }
   @media (min-width: 376px) {
     .container {
-      grid-template-columns: 1fr 2fr;
+      grid-template-columns: 1fr 1.5fr;
       grid-template-rows: 160px auto 30px;
       grid-template-areas:
         "logo menu"
