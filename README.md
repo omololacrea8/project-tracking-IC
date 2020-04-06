@@ -1,4 +1,4 @@
-# Frontend Mentor - Project tracking intro component
+# Frontend Mentor - Project tracking intro component https://omololacrea8.github.io/project-tracking-IC/
 
 ![Design preview for the Project tracking intro component coding challenge](./design/desktop-preview.jpg)
 
