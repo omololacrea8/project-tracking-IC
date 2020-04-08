@@ -267,7 +267,7 @@
   @media (min-width: 327px) {
     .container {
       grid-template-columns: 1fr 1.5fr;
-      grid-template-rows: 160px 100px 30px;
+      grid-template-rows: 160px auto auto;
       grid-template-areas:
         "logo menu"
         "text image"
@@ -350,8 +350,7 @@
     }
   
     .device img{
-      margin:95px;
-      padding-righ:20px;
+      padding:95px;
     }
   
     .dev {
