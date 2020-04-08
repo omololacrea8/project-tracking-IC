@@ -264,10 +264,10 @@
     color: hsl(228, 45%, 44%);
     text-decoration: none;
   }
-  @media (min-width: 327px) {
+  @media (min-width: 375px) {
     .container {
       grid-template-columns: 1fr 1.5fr;
-      grid-template-rows: 160px auto auto;
+      grid-template-rows: 160px auto;
       grid-template-areas:
         "logo menu"
         "text image"
