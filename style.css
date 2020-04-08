@@ -346,11 +346,12 @@
     }
   
     .spar .preview {
-      margin-left: 10px;
+      margin-left: 22px;
     }
   
     .device img {
-      margin-bottom: 95px;
+      margin:95px;
+      padding-right:30px;
     }
   
     .dev {
