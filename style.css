@@ -12,7 +12,6 @@
   /* MOBILE */
   .container {
     display: grid;
-    width: 100vw;
     height: 100vh;
     grid-template-columns: 1fr 1fr;
     grid-template-rows: 100px auto auto 30px;
